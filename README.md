@@ -1,1 +1,2 @@
 # Image-Search-Engine
+The image search engine web application allows users to search for images based on their query, displaying the results in a grid format. With a user-friendly interface, users can easily enter their search term, view the images, and open them in a new tab. The "Show more" button enables the loading of additional images, enhancing the browsing experience. Utilizing HTML, CSS, and JavaScript, this project serves as a foundation for creating a customizable and feature-rich image search engine
